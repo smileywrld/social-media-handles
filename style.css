@@ -6,7 +6,7 @@
 }
 
 body {
-    background: hsl(0, 0%, 8%);
+    background: rgb(20, 20, 20);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -16,7 +16,7 @@ body {
 #container {
     border-radius: 10px;
     text-align: center;
-    background: hsl(0, 0%, 12%);
+    background: rgb(31, 31, 31);
     width: 40vh;
     padding: 2rem 1.5rem;
 }
@@ -25,7 +25,7 @@ body {
     margin-top: 1rem;
     font-size: 1.8rem;
     font-weight: 600;
-    color: hsl(0, 0%, 100%);
+    color: rgb(255, 255, 255);
 }
 
 #container p {
@@ -39,7 +39,7 @@ body {
     margin-bottom: 1.5rem;
     font-size: 1.3rem;
     font-weight: 600;
-    color: hsl(75, 94%, 57%);
+    color: #c5f82a;
 }
 
 #container img {
@@ -52,7 +52,7 @@ body {
 
 #container a {
     display: block;
-    background-color: hsl(0, 0%, 20%);
+    background-color: rgb(51, 51, 51);
     color: hsl(0, 0%, 100%);
     text-decoration: none;
     text-align: center;
